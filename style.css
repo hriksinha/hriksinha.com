@@ -94,11 +94,12 @@ hr {
     text-align: center;
     height: auto;
     margin: auto;
+    max-width: 600px;
 
 }
 
 .hero .hero-img {
-    max-width: 800;
+    max-width: 600px;
     display: block;
     margin: auto;
     height: auto;
