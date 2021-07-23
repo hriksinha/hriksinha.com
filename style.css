@@ -92,12 +92,16 @@ hr {
 .hero {
     padding: 2rem;
     text-align: center;
+    height: auto;
+    margin: auto;
+
 }
 
 .hero .hero-img {
     max-width: 800;
     display: block;
     margin: auto;
+    height: auto;
 }
 
 .hero .hero-heading {
